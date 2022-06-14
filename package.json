@@ -1,0 +1,20 @@
+{
+  "name": "storybook_example",
+  "version": "1.0.0",
+  "description": "Sample project to experiment with visual regression tracker and cypress for testing storybook components.",
+  "scripts": {
+    "cy:open":  "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "visual regression testing",
+    "visual-regression-tracker",
+    "cypress.io"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "@visual-regression-tracker/agent-cypress": "^5.3.0",
+    "cypress": "^10.1.0"
+  }
+}

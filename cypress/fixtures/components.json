@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Discrete color legend",
+    "urlParam": "knob-X%20Axis=true&knob-endSize=20&knob-vertical%20gridlines=true&knob-midTitle=50&knob-use%20Width%3F=true&knob-startSize=2&knob-searchText=&knob-startTitle=0&knob-width=300&knob-midColor=%23DA854F&knob-horizontal%20gridlines=true&knob-use%20midColor%3F=false&knob-endTitle=100&knob-circlesTotal=10&knob-startColor=%23EF5D28&knob-orientation=vertical&knob-endColor=%23FF9833&knob-Y%20Axis=true&selectedKind=Legends&selectedStory=Discrete%20color%20legend&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybooks%2Fstorybook-addon-knobs"
+  },
+  {
+    "title": "Searchable discrete color legend",
+    "urlParam": "knob-X%20Axis=true&knob-endSize=20&knob-vertical%20gridlines=true&knob-midTitle=50&knob-use%20Width%3F=true&knob-startSize=2&knob-searchText=&knob-startTitle=0&knob-width=300&knob-midColor=%23DA854F&knob-horizontal%20gridlines=true&knob-use%20midColor%3F=false&knob-endTitle=100&knob-circlesTotal=10&knob-startColor=%23EF5D28&knob-orientation=vertical&knob-endColor=%23FF9833&knob-Y%20Axis=true&selectedKind=Legends&selectedStory=Searchable%20discrete%20color%20legend&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybooks%2Fstorybook-addon-knobs"
+  },
+  {
+    "title": "Continuous Color Legend",
+    "urlParam": "knob-X%20Axis=true&knob-endSize=20&knob-vertical%20gridlines=true&knob-midTitle=50&knob-use%20Width%3F=true&knob-startSize=2&knob-searchText=&knob-startTitle=0&knob-width=300&knob-midColor=%23DA854F&knob-horizontal%20gridlines=true&knob-use%20midColor%3F=false&knob-endTitle=100&knob-circlesTotal=10&knob-startColor=%23EF5D28&knob-orientation=vertical&knob-endColor=%23FF9833&knob-Y%20Axis=true&selectedKind=Legends&selectedStory=Continuous%20Color%20Legend&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybooks%2Fstorybook-addon-knobs"
+  },
+  {
+    "title": "Continuous Size legend",
+    "urlParam": "knob-X%20Axis=true&knob-endSize=20&knob-vertical%20gridlines=true&knob-midTitle=50&knob-use%20Width%3F=true&knob-startSize=2&knob-searchText=&knob-startTitle=0&knob-width=300&knob-midColor=%23DA854F&knob-horizontal%20gridlines=true&knob-use%20midColor%3F=false&knob-endTitle=100&knob-circlesTotal=10&knob-startColor=%23EF5D28&knob-orientation=vertical&knob-endColor=%23FF9833&knob-Y%20Axis=true&selectedKind=Legends&selectedStory=Continuous%20Size%20Legend&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybooks%2Fstorybook-addon-knobs"
+  }
+]
